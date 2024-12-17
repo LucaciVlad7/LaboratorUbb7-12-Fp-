@@ -1,0 +1,4 @@
+0,Tuti,Adresa 
+1,Vlad,Mnstr 
+2,Sergiu,Turda 
+3,Puffi,Acasa4,Daaa,Daaaa 
